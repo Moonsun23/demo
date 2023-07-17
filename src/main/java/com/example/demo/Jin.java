@@ -5,4 +5,6 @@ package com.example.demo;
 왜
 public class Jin {
 
+    이거 ㅁ되나여???~!!~
+
 }
