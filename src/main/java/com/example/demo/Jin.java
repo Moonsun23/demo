@@ -4,7 +4,8 @@ package com.example.demo;
 
 왜
 public class Jin {
-
+ String dkfjdkjfdkjf;
+ String dkfjdkjfdkjfdk;
     이거 ㅁ되나여???~!!~
 
 }
